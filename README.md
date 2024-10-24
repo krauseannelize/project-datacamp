@@ -4,5 +4,5 @@ DataCamp Projects provide an immersive and interactive learning experience, allo
 
 ## SQL Projects
 
-[Analyzing Students' Mental Health](/sql-student-mental-health/notebook.ipynb)
-[Analyze International Debt Statistics](/sql-international-debt-statistics/notebook.ipynb)
+- [Analyzing Students' Mental Health](/sql-student-mental-health/notebook.ipynb)
+- [Analyze International Debt Statistics](/sql-international-debt-statistics/notebook.ipynb)
