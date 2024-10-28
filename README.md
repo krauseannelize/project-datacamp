@@ -7,6 +7,6 @@ DataCamp Projects provide an immersive and interactive learning experience, allo
 - [Analyzing Students' Mental Health](/sql-student-mental-health/notebook.ipynb)
 - [Analyze International Debt Statistics](/sql-international-debt-statistics/notebook.ipynb)
 - [When Was the Golden Era of Video Games?](/sql-golden-era-of-video-games/notebook.ipynb)
-- [Analyzing Industry Carbon Emissions](sql-industry-carbon-emissions/notebook.ipynb)
+- [Analyzing Industry Carbon Emissions](/sql-industry-carbon-emissions/notebook.ipynb)
 - [Analyzing Electric Vehicle Charging Habits](/sql-electric-vehicle-charging-habits/notebook.ipynb)
 - [Exploring Trends in American Baby Names](/sql-american-baby-names-trends/notebook.ipynb)
